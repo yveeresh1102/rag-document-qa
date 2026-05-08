@@ -1,0 +1,6 @@
+langchain==0.1.20
+langchain-community==0.0.38
+chromadb
+pypdf
+sentence-transformers
+transformers
